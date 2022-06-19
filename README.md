@@ -16,7 +16,6 @@ As a Gif user I want to find the perfect Gif to send to my friends and family. I
 
 ## Deployment
 ---
-[GitHub](https://github.com/jareddaniel95/GifSource)
+[GitHub] https://github.com/bl-engineer/GifSource
 
-[Deployed URL](https://jareddaniel95.github.io/GifSource/)
-
+[Deployed URL] https://jareddaniel95.github.io/GifSource/
