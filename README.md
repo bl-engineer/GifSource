@@ -18,4 +18,4 @@ As a Gif user I want to find the perfect Gif to send to my friends and family. I
 ---
 [GitHub](https://github.com/bl-engineer/GifSource)
 
-[Deployed URL](https://jareddaniel95.github.io/GifSource/)
+[Deployed URL](https://bl-engineer.github.io/GifSource/)
